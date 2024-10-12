@@ -81,7 +81,7 @@
 ### <h3>Stats:</h3>
 <p>
     <img align = "left" src="https://codeforces-readme-stats.vercel.app/api/card?username=joyBoyy" alt="Codeforces Stats"/>
-    <img src="https://leetcard.jacoblin.cool/Deepanshu0909?theme=unicorn&font=Amaranth" alt="Leetcode Stats" width="430" height="200"/>
+    <img src="https://leetcard.jacoblin.cool/Deepanshu0909?theme=unicorn&font=Amaranth" alt="Leetcode Stats" width="430" height="230"/>
   
 </p>
 
