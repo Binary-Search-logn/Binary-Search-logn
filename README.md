@@ -11,9 +11,7 @@
 
 - ⚡ Fun fact :- **Anime is my first love**
 
-<img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/12fed96-developer.gif">
-
-
+<img align="right" alt="Coding" width="350" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/12fed96-developer.gif">
 <p align="left">
 <a href="https://twitter.com/deepans70838532" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepans70838532" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/binarysearch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binarysearch" height="30" width="40" /></a>
@@ -29,4 +27,6 @@
 
 ###
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=joyBoyy)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Deepanshu0909?theme=unicorn&font=Amaranth)
 <img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
