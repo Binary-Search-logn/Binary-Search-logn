@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Gupta</h1>
 <h3 align="center">A passionate Competitve programmer from India</h3>
-
-
+<img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/12fed96-developer.gif">
 <h3 align="left">Connect with me:</h3><img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 <p align="left">
 <a href="https://twitter.com/deepans70838532" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepans70838532" height="30" width="40" /></a>
