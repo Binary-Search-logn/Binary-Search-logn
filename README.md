@@ -77,6 +77,13 @@
     </a>
 </p>
 
+![Git](https://img.shields.io/badge/Git-999999?style=for-the-badge&logo=Git&logoColor=red)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+
+
 
 ### <h3>Stats:</h3>
 <p>
