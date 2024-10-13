@@ -112,6 +112,8 @@
     <li>Up-solving is the most important thing to do.</li>
     <li>Don't chase ratings; focus on learning concepts, and your rating will increase automatically.</li>
     <li>Don't give up. Don't give in. Stay committed. I practiced for 15 months without a single increase in rating, but persistence paid off. 💯🔥</li>
-</ul>
+</ul>  
+
+# <h2> About My Projects 🐱 </h2>
 
 
