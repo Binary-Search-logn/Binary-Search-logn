@@ -130,3 +130,8 @@ During my second year of college, I ventured into Android development using Kotl
 
 
 Apart from these Android projects, I have also worked on a variety of web development projects, which you can check out on my profile 🌐
+
+
+<p align="center">
+  <a href="https://www.edisonlee55.com"><img src="https://github.com/Binary-Search-logn/Binary-Search-logn/blob/main/ComfyUI_Generate_1_image%20(1).png" alt="Banner" width="350" height="350"></a>
+</p>
