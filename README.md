@@ -88,11 +88,13 @@
 ### <h3>Stats:</h3>
 <p>
     <img align = "left" src="https://codeforces-readme-stats.vercel.app/api/card?username=joyBoyy" alt="Codeforces Stats"/>
-    <img src="https://leetcard.jacoblin.cool/Deepanshu0909?theme=unicorn&font=Amaranth" alt="Leetcode Stats" width="430" height="230"/>
-  
+    <img src="https://leetcard.jacoblin.cool/Deepanshu0909?theme=unicorn&font=Amaranth" alt="Leetcode Stats" width="430" height="280"/>
 </p>
 
-<p align= "left">There comes a moment when you feel like giving up, but surrender is an outcome far worse than defeat 💪. For the first 5 days of the break, I observed my mistakes and how to fix them to improve my rating. I kept chasing rating 📉 after rating 📈 and of course, it wasn't working but then I realized that in the past 15 contests, I struggled with math problems frequently — the backbone ☠ of Competitive programming:</p>
+
+
+# <h2>My Cp Journey 🌱 </h2>
+<p >There comes a moment when you feel like giving up, but surrender is an outcome far worse than defeat 💪. For the first 5 days of the break, I observed my mistakes and how to fix them to improve my rating. I kept chasing rating 📉 after rating 📈 and of course, it wasn't working but then I realized that in the past 15 contests, I struggled with math problems frequently — the backbone ☠ of Competitive programming:</p>
 
 <ul>
     <li>Number theory</li>
@@ -100,11 +102,9 @@
     <li>Game Theory</li>
 </ul>
 
-<p>Over the next two months, I applied "Total Concentration Breathing (5th Form)" and decided to focus on mastering these topics as quickly as possible 🧠💨. I challenged 📊 myself to take a 2-month break, learn the concepts, and solve questions exclusively in these areas. I even created an alternate account on Codeforces named <strong>#joyBoyy</strong> and started practicing these topics from scratch. After solving 500+ problems — day 🌞 and night 🌙 — I finally reached the Specialist rank in Codeforces Round 978 (Div 2) 🚀.</p>
+<p>Over the next two months, I applied "Total Concentration Breathing (5th Form)" and decided to focus on mastering these topics as quickly as possible 🧠💨.I started practicing these topics from scratch and After solving 700+ problems — day 🌞 and night 🌙 — I finally reached the Specialist rank in Codeforces Round 978 (Div 2) 🚀.</p>
 
-<p>All the TLE team mentors helped me learn concepts and solve questions. Now, in upcoming rounds, I plan to continue practicing with both my Main account and Alt account 📍.</p>
-
-<h3>🖥️ Things I Learned as Part of the TLE Team:</h3>
+<h3>🖥️ Things I Learned as Part of the TLE Team:✨</h3>
 <ul>
     <li>Identify your weak spots and practice those topics (in my case, number theory and combinatorics).</li>
     <li>Do virtual contests as much as possible. You'll learn more in virtual contests than by randomly picking practice problems.</li>
