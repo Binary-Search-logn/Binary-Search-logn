@@ -116,4 +116,17 @@
 
 # <h2> About My Projects 🐱 </h2>
 
+During my second year of college, I ventured into Android development using Kotlin & completed two key projects: Timeguard & Joyboy📱.
 
+<ul>
+  <li><strong>Timeguard</strong> is an app designed to help parents manage their children's screen time, particularly for kids aged 3 to 12 👧👦.</li>
+  <li>Its standout feature is the automatic shutdown of games after a set amount of usage time, with the limit resetting after 24 hours ⏳.</li>
+  <li>The app consists of two interfaces: one for parents and one for children. Parents can remotely monitor and control their child's activities through their own phones 📲.</li>
+  <li>I worked alongside four friends on this project, primarily handling the backend operations while contributing to the UI/UX design and implementing the MVVM architecture 🎨🛠️.</li>
+</ul>
+
+
+<b>Joyboy</b> project is an anime streaming platform 🎥🍿 that uses the Jikan API, offering users quick access to the latest anime updates 🚀. I developed this app independently over the course of 4-5 months, using MVVM architecture, Retrofit, ViewModels, and Hilt for dependency injection 💻🔧.
+
+
+Apart from these Android projects, I have also worked on a variety of web development projects, which you can check out on my profile 🌐
