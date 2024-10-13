@@ -104,6 +104,7 @@
 
 <p>Over the next two months, I applied "Total Concentration Breathing (5th Form)" and decided to focus on mastering these topics as quickly as possible 🧠💨.I started practicing these topics from scratch and After solving 700+ problems — day 🌞 and night 🌙 — I finally reached the Specialist rank in Codeforces Round 978 (Div 2) 🚀.</p>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3>🖥️ Things I Learned as Part of the TLE Team:✨</h3>
 <ul>
     <li>Identify your weak spots and practice those topics (in my case, number theory and combinatorics).</li>
@@ -112,3 +113,5 @@
     <li>Don't chase ratings; focus on learning concepts, and your rating will increase automatically.</li>
     <li>Don't give up. Don't give in. Stay committed. I practiced for 15 months without a single increase in rating, but persistence paid off. 💯🔥</li>
 </ul>
+
+
